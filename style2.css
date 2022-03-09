@@ -1,0 +1,232 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.page{
+    background:url('/Users/ODEFI-2/Desktop/Evaluation HTML+CSS/img/header_bg.jpg') ;
+}
+/*Barre de navigation*/
+nav{
+    color : #fff; 
+    display: inline-block;
+    justify-content: space-between;
+    margin-top: 0%;
+    top: 0;
+    padding: 20px;
+}
+.onglets{
+    display: inline-flex;
+    margin-left: 200px;
+}
+.onglets li{
+    display: inline-flex;
+    margin-right: 200px;
+}
+.onglets img{
+    margin-right: 400px;
+}
+.link{
+    padding: 20px;
+    margin-right: 150px; 
+}
+.link a{
+    color: #3d9f96;
+    margin-right: 40px;
+}
+.img{
+    margin-left:-350px;
+
+}
+/*Partie de Header*/
+Header{
+    color: #fff;
+}
+.top a{
+    font-size: 40px;
+    margin-left: 700px;
+}
+h2{
+    font-family: Open Sans, Arial, sans-serif;
+    display: flex; 
+    margin-left: 800px;
+    font-size: 30px;
+    color: #fff;
+}
+h5{
+    font-family: Open Sans, Arial, sans-serif;
+    margin-left: 780px;
+    font-size: 13px;
+}
+
+button.Primo{
+    margin-left: 800px;
+    border-radius:30px ;
+    border-style: hidden;
+    background-color: #3d9f96;
+    padding:1% 4%;
+    
+}
+div.texto{
+    font-family: Open Sans, Arial, sans-serif;
+    color: #ababab;;
+    font-size: 15px;
+    margin-left: 760px; ;   
+}
+div.text{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 850px; ;   
+}
+div.txt{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 730px; ;   
+}
+
+.ORDINATEUR{
+    margin-left:600px;
+
+}
+/*Fin du Header*/
+.icons{
+    margin-left:600px;
+}
+.icons img{
+    padding: 20px;
+}
+div.add{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#3d9f96;
+    font-size: 15px;
+    margin-left: 800px; ;
+}
+h3{
+    font-family: Open Sans, Arial, sans-serif;
+    margin-left: 10px;
+    font-size: 25px;
+}
+div.checking{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 750px;
+}
+div.check{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 690px;
+}
+div.unit{
+    font-family: Open Sans, Arial, sans-serif;
+    color:#ababab;
+    font-size: 15px;
+    margin-left: 700px;
+}
+div.colonnes{
+    display: inline;
+    flex-wrap: wrap;
+    margin-left: 500px;
+    margin-right: 400px;
+    justify-content: space-between;
+     background: url('map_bg.png');
+}
+div.first-block{
+    background:url('/Users/ODEFI-2/Desktop/Evaluation HTML+CSS/img/header_bg.jpg') ;
+    font-family: Helvetica, Arial, sans-serif, 'Raleway';
+    color:#3d9f96;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+}
+div.captorscreen{
+    display: inline;
+    background: url('map_bg.png');
+    background-color: #f7f7f7 ;
+    margin-left: 90px;
+}
+.captor1{
+    margin-left: -54px;
+}
+.captor2{
+    margin-left: -70px;
+}
+.captor3{
+    margin-left: -70px;
+}
+div.screen{
+    margin-left: 100px;
+}
+button.Secondo{
+    border-radius:30px ;
+    border-style: hidden;
+    background-color: #3d9f96;
+    padding:1% 4%;
+}
+div.phrase{
+    color:#ababab
+}
+div.sidetag{
+    float: right;
+}
+div.paramots{
+    float: left;
+    color:#ababab
+    
+}
+button.Tertio{
+    border-radius:30px ;
+    border-style: hidden;
+    background-color: #3d9f96;
+    padding:1% 4%;
+}
+/*Partie du Footer*/
+.paragraphe{
+    color: #ababab;
+}
+.paragraphe2{
+    color: #ababab;
+}
+.paragraphe3{
+    color: #ababab;
+}
+.footers{
+    background: url('map_bg.png');
+    background-color: #f7f7f7;
+    display: inline;
+}
+.footer1{
+    margin-right: 100px;
+
+}
+div.footer2{
+    display: inline-block;
+    margin-left: 370px; 
+}
+div.footer3{
+    margin-left: 370px;
+}
+.footer4{
+    display: inline-block;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: #ababab;
+}
+.icon1{
+    margin-right: 10px;
+}
+.icon2{
+    margin-right: 10px;
+}
+.icon3{
+    margin-right: 10px;
+}
+.icon4{
+    margin-right: 110px;
+}
+
