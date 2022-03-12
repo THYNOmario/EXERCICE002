@@ -1,0 +1,154 @@
+@media(max-width:720px){
+
+nav .onglets ul li{
+    display: none;
+}
+.SAYNA1{
+    margin-left: -10px;
+}
+nav .link a{
+    margin-right: 900px;
+}
+Header .top{
+    margin-left: 280px;
+
+}
+header h5{
+    margin-left: 230px;
+}
+Header .texto{
+    margin-left: 210px;
+}
+Header .txt{
+    margin-left: 190px;
+}
+Header .text{
+    margin-left: 300px;
+}
+Header .Primo{
+    margin-left: 300px;
+}
+Header .ORDINATEUR{
+    margin: 40px; 
+    margin-bottom: 0 ; 
+}
+.icons{
+    display: flex;
+    margin: 0;
+    padding-left: 60px;
+}
+.add p{
+    display: none;
+}
+h3{
+    margin-left: -520px;  
+}
+.check p{
+    margin-left: -530px;
+}
+.unit p{
+    margin-left: -525px;
+}
+.colonne1{
+  margin-left: 230px;
+}
+.colonne{
+    margin-left: 250px;
+}
+.colonne2{
+    margin-left: 230px ;
+}
+.colonnes p{
+    display: inline;
+}
+.colonnes{
+    margin-left: 900px;
+}
+.minitxt{
+    margin-left: -70px;
+}
+.first-block{
+   margin-left: 100px;
+   margin-right: 100px;
+}
+.title p{
+    display: inline;
+}
+.screenshots p{
+   margin-left: 300px;
+
+}
+.captor1{
+    margin-left: 230px;
+}
+.captor2{
+    margin-left: 230px;
+}
+.captor3{
+    margin-left: 230px;
+}
+.tag{
+    margin-left: 230px;
+}
+.sidetag{
+    float: none;
+    margin-right: 190px;
+}
+.phrase p{
+    display: flex;
+}
+.second-block{
+    float: none;
+    margin-left: 45px
+}
+h1{
+    margin-left: 50px;
+}
+.Secondo{
+    margin-left: 100px;
+    margin-top: 15%;
+}
+.third-block {
+    float: none;
+    margin-left: -350px;
+    padding: 10%;
+}
+.picture{
+    float: none;
+    margin-left: 550px;
+   padding-top: 5%;
+}
+.third-block h1{
+    margin-left: 600px;
+}
+.paramots{
+    display: inline-block;
+    margin-left: 550px;
+    margin-bottom: 10%;
+
+}
+.Tertio{
+    margin-left: 100px;
+    margin-top: 15%;
+}
+.footers{
+    display: inline-block;
+
+}
+.footer1{
+    margin-left: 300px;
+    margin-bottom: 10%;
+}
+.footer2{
+    margin-top: 20%;
+    margin-left: 350px;
+}
+.footer3{
+  margin-right: 350px; 
+  
+}
+.footer4{
+    margin-left: 250px;
+    margin-top: 5%;
+    padding: 50px;
+}
